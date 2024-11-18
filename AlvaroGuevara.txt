@@ -1,0 +1,18 @@
+¿Qué es GitBush?
+
+Es una aplicación para  entornos de Microsoft Windows que ofrece una capa de emulación para comandos de Git.
+
+¿Para qué sirve GitBush?
+
+Gestionar repositorios y trabajar con control de versiones sin necesidad de interfaces gráficas y ejecutar comandos de Git como git clone, git commit, git push, etc.
+
+¿Cómo funciona?
+
+Funciona proporcionando una interfaz de línea de comandos que emula un entorno de terminal tipo Unix en Windows. A través de Git Bash, puedes interactuar con Git y ejecutar comandos del sistema que normalmente encontrarás en un entorno Linux o macOS, pero en tu máquina con Windows.
+
+Nombra 5 comandos de Git:
+git clone <url>: Clonar un repositorio.
+git status: Ver el estado del repositorio.
+git add <archivo>: Añadir cambios al área de preparación.
+git commit -m "mensaje": Confirmar los cambios con un mensaje.
+git push: Subir cambios al repositorio remoto.
